@@ -1,0 +1,5 @@
+name , company , lead status
+ Paul , XYZ, warm lead
+ Randy , ABCD , cold lead
+ Amit , ABCD , cold lead
+ Sumit , ABCD , cold lead
